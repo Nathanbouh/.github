@@ -4,7 +4,7 @@ Bienvenue à tous les étudiants de l'ARE **LoLibres** !
 
 ## TP1
 
-Dans le cadre d'un EAD, les moyens de communication se doivent d'être performants, c'est pour cela qu'il vous faudra créer au plus vite un compte [Telegram](https://telegram.org) et rejoindre le [groupe public LoLibres](https://lolibres.t.me).
+Dans le cadre d'un EAD, les moyens de communication se doivent d'être performants, c'est pourquoi il vous faudra créer au plus vite un compte [Telegram](https://telegram.org) et rejoindre le [groupe public LoLibres](https://lolibres.t.me).
 
 ## TP2
 
