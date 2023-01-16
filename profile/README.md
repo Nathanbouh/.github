@@ -12,4 +12,14 @@ Créer un compte sur [GitHub](https://github.com) et me communiquer votre nom d'
 
 ## TP3 : [Linux](https://fr.wikipedia.org/wiki/Linux)
 
-[DistroWatch](https://distrowatch.com)
+Il existe un grand nombre de distributions GNU/Linux ([DistroWatch](https://distrowatch.com)), basées sur le [noyau Linux](https://www.kernel.org).
+
+## TP4 : Licences
+
+## TP5 : [Creative Coomons](https://fr.wikipedia.org/wiki/Creative_Commons)
+
+[Creative Commons](https://creativecommons.org)
+
+## TP6 : [Wikipédia](https://fr.wikipedia.org/wiki/Wikip%C3%A9dia)
+
+[Wikipédia](https://www.wikipedia.org)
