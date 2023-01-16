@@ -16,6 +16,7 @@ Créer un compte sur [GitHub](https://github.com) et me communiquer votre nom d'
 
 Il existe un grand nombre de distributions GNU/Linux ([DistroWatch](https://distrowatch.com)), basées sur le [noyau Linux](https://www.kernel.org).
 
+![](https://upload.wikimedia.org/wikipedia/en/thumb/2/22/Heckert_GNU_white.svg/246px-Heckert_GNU_white.svg.png)
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/202px-Tux.svg.png)
 
 ## TP4 : Licences
