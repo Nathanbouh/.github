@@ -12,6 +12,8 @@ Dans le cadre d'un EAD, les moyens de communication se doivent d'être performan
 
 Créer un compte sur [GitHub](https://github.com) et me communiquer votre nom d'utilisateur par Telegram, pour que je puisse vous ajouter à la [team 2023](https://github.com/orgs/LoLibres/teams/2023).
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/240px-Octicons-mark-github.svg.png)
+
 ## TP3 : [GNU/Linux](https://fr.wikipedia.org/wiki/Linux)
 
 Il existe un grand nombre de distributions GNU/Linux ([DistroWatch](https://distrowatch.com)), basées sur le [noyau Linux](https://www.kernel.org).
