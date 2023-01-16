@@ -25,3 +25,5 @@ Il existe un grand nombre de distributions GNU/Linux ([DistroWatch](https://dist
 ## TP6 : [Wikipédia](https://fr.wikipedia.org/wiki/Wikip%C3%A9dia)
 
 [Wikipédia](https://www.wikipedia.org)
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Wikipedia-logo-v2-square.svg/240px-Wikipedia-logo-v2-square.svg.png)
