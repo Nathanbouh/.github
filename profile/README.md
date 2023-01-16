@@ -16,7 +16,7 @@ Il existe un grand nombre de distributions GNU/Linux ([DistroWatch](https://dist
 
 ## TP4 : Licences
 
-## TP5 : [Creative Coomons](https://fr.wikipedia.org/wiki/Creative_Commons)
+## TP5 : [Creative Commons](https://fr.wikipedia.org/wiki/Creative_Commons)
 
 [Creative Commons](https://creativecommons.org)
 
