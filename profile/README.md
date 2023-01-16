@@ -22,6 +22,8 @@ Il existe un grand nombre de distributions GNU/Linux ([DistroWatch](https://dist
 
 [Creative Commons](https://creativecommons.org)
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Cc.logo.circle.svg/240px-Cc.logo.circle.svg.png)
+
 ## TP6 : [Wikipédia](https://fr.wikipedia.org/wiki/Wikip%C3%A9dia)
 
 [Wikipédia](https://www.wikipedia.org)
