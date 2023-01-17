@@ -26,6 +26,8 @@ Il existe un grand nombre de distributions GNU/Linux ([DistroWatch](https://dist
 [OpenBSD](https://www.openbsd.org)
 [NetBSD](https://www.netbsd.org)
 
+![](https://blog.microlinux.fr/wp-content/uploads/2022/08/systemes-bsd.jpg)
+
 ## TP4 : Licences
 
 ## TP5 : [Creative Commons](https://fr.wikipedia.org/wiki/Creative_Commons)
