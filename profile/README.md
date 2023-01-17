@@ -46,4 +46,4 @@ Il existe un grand nombre de distributions GNU/Linux ([DistroWatch](https://dist
 
 [OpenStreetMap](https://www.openstreetmap.org)
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Openstreetmap_logo.svg/240p-Openstreetmap_logo.svg.png)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Openstreetmap_logo.svg/240px-Openstreetmap_logo.svg.png)
