@@ -6,20 +6,20 @@ Bienvenue à tous les étudiants de l'ARE **LoLibres** !
 
 Dans le cadre d'un EAD, les moyens de communication se doivent d'être performants, c'est pourquoi il vous faudra créer au plus vite un compte [Telegram](https://telegram.org) et rejoindre le [groupe public LoLibres](https://lolibres.t.me).
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/240px-Telegram_2019_Logo.svg.png)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/160px-Telegram_2019_Logo.svg.png)
 
 ## TP2 : [GitHub](https://fr.wikipedia.org/wiki/GitHub)
 
 Créer un compte sur [GitHub](https://github.com) et me communiquer votre nom d'utilisateur par Telegram, pour que je puisse vous ajouter à la [team 2023](https://github.com/orgs/LoLibres/teams/2023).
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/240px-Octicons-mark-github.svg.png)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/160px-Octicons-mark-github.svg.png)
 
 ## TP3 : [GNU/Linux](https://fr.wikipedia.org/wiki/Linux)
 
 Il existe un grand nombre de distributions GNU/Linux ([DistroWatch](https://distrowatch.com)), basées sur le [noyau Linux](https://www.kernel.org).
 
-![](https://upload.wikimedia.org/wikipedia/en/thumb/2/22/Heckert_GNU_white.svg/246px-Heckert_GNU_white.svg.png)
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/202px-Tux.svg.png)
+![](https://upload.wikimedia.org/wikipedia/en/thumb/2/22/Heckert_GNU_white.svg/160px-Heckert_GNU_white.svg.png)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/160px-Tux.svg.png)
 
 ## TP : [BSD](https://fr.wikipedia.org/wiki/Berkeley_Software_Distribution)
 [FreeBSD](https://www.freebsd.org)
@@ -40,19 +40,19 @@ Il existe un grand nombre de distributions GNU/Linux ([DistroWatch](https://dist
 [Free Software Foundation](https://www.fsf.org) et [Open Source Initiative](https://opensource.org)
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/FSF-Logo_part.svg/320px-FSF-Logo_part.svg.png)
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Open_Source_Initiative_keyhole.svg/240px-Open_Source_Initiative_keyhole.svg.png)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Open_Source_Initiative_keyhole.svg/160px-Open_Source_Initiative_keyhole.svg.png)
 
 ## TP5 : [Creative Commons](https://fr.wikipedia.org/wiki/Creative_Commons)
 
 [Creative Commons](https://creativecommons.org)
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Cc.logo.circle.svg/240px-Cc.logo.circle.svg.png)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Cc.logo.circle.svg/160px-Cc.logo.circle.svg.png)
 
 ## TP6 : [Wikipédia](https://fr.wikipedia.org/wiki/Wikip%C3%A9dia)
 
 [Wikipédia](https://www.wikipedia.org)
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Wikipedia-logo-v2-square.svg/240px-Wikipedia-logo-v2-square.svg.png)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Wikipedia-logo-v2-square.svg/160px-Wikipedia-logo-v2-square.svg.png)
 
 ## TP7 : [OpenStreetMap](https://fr.wikipedia.org/wiki/OpenStreetMap)
 
