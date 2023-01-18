@@ -37,7 +37,7 @@ Il existe un grand nombre de distributions GNU/Linux ([DistroWatch](https://dist
 
 ## TP4 : Licences
 
-[Free Software Foundation](https://www.fsf.org) et [Open Source Initiative]()
+[Free Software Foundation](https://www.fsf.org) et [Open Source Initiative](https://opensource.org)
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/FSF-Logo_part.svg/320px-FSF-Logo_part.svg.png)
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Open_Source_Initiative_keyhole.svg/240px-Open_Source_Initiative_keyhole.svg.png)
