@@ -33,7 +33,7 @@ Il existe un grand nombre de distributions GNU/Linux ([DistroWatch](https://dist
 
 [Git](https://git-scm.com/)
 
-![](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png)
+![](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png?h=200)
 
 ## TP4 : Licences
 
