@@ -37,6 +37,9 @@ Il existe un grand nombre de distributions GNU/Linux ([DistroWatch](https://dist
 
 ## TP4 : Licences
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/FSF-Logo_part.svg/320px-FSF-Logo_part.svg.png)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Opensource.svg/170px-Opensource.svg.png)
+
 ## TP5 : [Creative Commons](https://fr.wikipedia.org/wiki/Creative_Commons)
 
 [Creative Commons](https://creativecommons.org)
