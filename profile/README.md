@@ -28,6 +28,13 @@ Il existe un grand nombre de distributions GNU/Linux ([DistroWatch](https://dist
 
 ![](https://blog.microlinux.fr/wp-content/uploads/2022/08/systemes-bsd.jpg)
 
+
+## TP : [Git](https://fr.wikipedia.org/wiki/Git)
+
+[Git](https://git-scm.com/)
+
+![](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png)
+
 ## TP4 : Licences
 
 ## TP5 : [Creative Commons](https://fr.wikipedia.org/wiki/Creative_Commons)
