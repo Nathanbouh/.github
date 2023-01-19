@@ -28,7 +28,7 @@ Il existe un grand nombre de distributions GNU/Linux ([DistroWatch](https://dist
 
 ![](https://blog.microlinux.fr/wp-content/uploads/2022/08/systemes-bsd.jpg)
 
-## TP : [FOSDEM](https://en.wikipedia.org/wiki/FOSDEM)
+## TP : [FOSDEM](https://fr.wikipedia.org/wiki/Free_and_open_source_software_developers%27_European_meeting)
 
 [FOSDEM 2023](https://fosdem.org/2023)
 
