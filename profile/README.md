@@ -69,5 +69,5 @@ Il existe un grand nombre de distributions GNU/Linux ([DistroWatch](https://dist
 
 [Arduino](https://www.arduino.cc)
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/109px-Arduino_Logo.svg.png)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/160px-Arduino_Logo.svg.png)
 
