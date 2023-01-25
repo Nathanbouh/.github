@@ -8,6 +8,13 @@ Dans le cadre d'un EAD, les moyens de communication se doivent d'être performan
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/160px-Telegram_2019_Logo.svg.png)
 
+[Terrorisme : am, stram, gram, pic et pic et Telegram](https://reflets.info/articles/terrorisme-am-stram-gram-pic-et-pic-et-telegram)
+[Le monde selon Telegram](https://reflets.info/articles/le-monde-selon-telegram)
+[https://reflets.info/articles/idee-recette-une-messagerie-cryptee-aux-morilles](https://reflets.info/articles/idee-recette-une-messagerie-cryptee-aux-morilles)
+[Telegram : DNS over Google](https://reflets.info/articles/telegram-dns-over-google)
+[Google bas du front, c'est le Souq chez Signal](https://reflets.info/articles/google-bas-du-front-c-est-le-souq-chez-signal)
+[Censure : 2018, une année noire pour les libertés](https://reflets.info/articles/censure-2018-une-annee-noire-pour-les-libertes)
+
 ## TP2 : [GitHub](https://fr.wikipedia.org/wiki/GitHub)
 
 Créer un compte sur [GitHub](https://github.com) et me communiquer votre nom d'utilisateur par Telegram, pour que je puisse vous ajouter à la [team 2023](https://github.com/orgs/LoLibres/teams/2023).
