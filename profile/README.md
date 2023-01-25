@@ -60,7 +60,7 @@ Il existe un grand nombre de distributions GNU/Linux ([DistroWatch](https://dist
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/FSF-Logo_part.svg/320px-FSF-Logo_part.svg.png)
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Open_Source_Initiative_keyhole.svg/160px-Open_Source_Initiative_keyhole.svg.png)
 
-![Éthique des logiciels libres](https://dl.flext.net/Ethique_des_Logiciels_Libres.pdf)
+[Éthique des logiciels libres](https://dl.flext.net/Ethique_des_Logiciels_Libres.pdf)
 
 ## TP5 : [Creative Commons](https://fr.wikipedia.org/wiki/Creative_Commons)
 
