@@ -47,6 +47,18 @@ Il existe un grand nombre de distributions GNU/Linux ([DistroWatch](https://dist
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/FOSDEM_logo.svg/159px-FOSDEM_logo.svg.png)
 
+Voici les rooms les plus intéressantes pour vous selon moi :
+
+[Python](https://fosdem.org/2023/schedule/track/python)
+[Distributions](https://fosdem.org/2023/schedule/track/distributions)
+[Community](https://fosdem.org/2023/schedule/track/community)
+[Collaboration](https://fosdem.org/2023/schedule/track/collaboration_and_content_management)
+[Public](https://fosdem.org/2023/schedule/track/public_code_and_digital_public_goods)
+[Open research](https://fosdem.org/2023/schedule/track/open_research_tools_and_technology)
+[Legal](https://fosdem.org/2023/schedule/track/legal_and_policy_issues)
+
+Choisissez chacun au moins une conférence à regarder, de laquelle vous devrez faire un résumé.
+
 ## TP : [Git](https://fr.wikipedia.org/wiki/Git)
 
 [Git](https://git-scm.com/)
