@@ -10,7 +10,6 @@ Dans le cadre d'un EAD, les moyens de communication se doivent d'être performan
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Signal-Logo.svg/160px-Signal-Logo.svg.png)
 
 [Terrorisme : am, stram, gram, pic et pic et Telegram](https://reflets.info/articles/terrorisme-am-stram-gram-pic-et-pic-et-telegram)
-
 [Le monde selon Telegram](https://reflets.info/articles/le-monde-selon-telegram)
 
 [Idée recette : une messagerie cryptée aux morilles](https://reflets.info/articles/idee-recette-une-messagerie-cryptee-aux-morilles)
