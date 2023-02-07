@@ -9,7 +9,7 @@ Dans le cadre d'un EAD, les moyens de communication se doivent d'être performan
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/160px-Telegram_2019_Logo.svg.png)
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Signal-Logo.svg/160px-Signal-Logo.svg.png)
 
-Des liens intéressants concerant la sécurité et des tentatives de censure de Telegram et [Signal](https://fr.wikipedia.org/wiki/Signal_(application)) :
+Des liens intéressants concerant la sécurité et des tentatives de censure de Telegram et [Signal](https://fr.wikipedia.org/wiki/Signal_(application)) (l'autre application de messagerie instantanée libre) :
 - [Terrorisme : am, stram, gram, pic et pic et Telegram](https://reflets.info/articles/terrorisme-am-stram-gram-pic-et-pic-et-telegram)
 - [Le monde selon Telegram](https://reflets.info/articles/le-monde-selon-telegram)
 - [Idée recette : une messagerie cryptée aux morilles](https://reflets.info/articles/idee-recette-une-messagerie-cryptee-aux-morilles)
