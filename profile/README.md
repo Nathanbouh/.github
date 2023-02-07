@@ -39,7 +39,7 @@ Voici les rooms les plus intéressantes pour vous selon moi :
 - [Open research](https://fosdem.org/2023/schedule/track/open_research_tools_and_technology)
 - [Legal](https://fosdem.org/2023/schedule/track/legal_and_policy_issues)
 
-Choisissez chacun au moins une conférence à regarder, de laquelle vous devrez faire un résumé.
+Choisissez chacun au moins une conférence à regarder, de laquelle vous devrez faire un résumé en [Mardown](https://fr.wikipedia.org/wiki/Markdown) sur le [Wiki](https://github.com/LoLibres/.github/wiki/FOSDEM-2023).
 
 ## TP3 : [GNU/Linux](https://fr.wikipedia.org/wiki/Linux)
 
