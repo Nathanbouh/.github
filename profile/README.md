@@ -9,12 +9,13 @@ Dans le cadre d'un EAD, les moyens de communication se doivent d'être performan
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/160px-Telegram_2019_Logo.svg.png)
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Signal-Logo.svg/160px-Signal-Logo.svg.png)
 
-[Terrorisme : am, stram, gram, pic et pic et Telegram](https://reflets.info/articles/terrorisme-am-stram-gram-pic-et-pic-et-telegram)  
-[Le monde selon Telegram](https://reflets.info/articles/le-monde-selon-telegram)  
-[Idée recette : une messagerie cryptée aux morilles](https://reflets.info/articles/idee-recette-une-messagerie-cryptee-aux-morilles)  
-[Telegram : DNS over Google](https://reflets.info/articles/telegram-dns-over-google)  
-[Google bas du front, c'est le Souq chez Signal](https://reflets.info/articles/google-bas-du-front-c-est-le-souq-chez-signal)  
-[Censure : 2018, une année noire pour les libertés](https://reflets.info/articles/censure-2018-une-annee-noire-pour-les-libertes)
+Des liens intéressants concerant la sécurité et des tentatives de censure de Telegram et [Signal](https://fr.wikipedia.org/wiki/Signal_(application)) :
+- [Terrorisme : am, stram, gram, pic et pic et Telegram](https://reflets.info/articles/terrorisme-am-stram-gram-pic-et-pic-et-telegram)
+- [Le monde selon Telegram](https://reflets.info/articles/le-monde-selon-telegram)
+- [Idée recette : une messagerie cryptée aux morilles](https://reflets.info/articles/idee-recette-une-messagerie-cryptee-aux-morilles)
+- [Telegram : DNS over Google](https://reflets.info/articles/telegram-dns-over-google)
+- [Google bas du front, c'est le Souq chez Signal](https://reflets.info/articles/google-bas-du-front-c-est-le-souq-chez-signal)
+- [Censure : 2018, une année noire pour les libertés](https://reflets.info/articles/censure-2018-une-annee-noire-pour-les-libertes)
 
 ## TP2 : [GitHub](https://fr.wikipedia.org/wiki/GitHub)
 
