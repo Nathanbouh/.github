@@ -10,14 +10,10 @@ Dans le cadre d'un EAD, les moyens de communication se doivent d'être performan
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Signal-Logo.svg/160px-Signal-Logo.svg.png)
 
 [Terrorisme : am, stram, gram, pic et pic et Telegram](https://reflets.info/articles/terrorisme-am-stram-gram-pic-et-pic-et-telegram)  
-[Le monde selon Telegram](https://reflets.info/articles/le-monde-selon-telegram)
-
-[Idée recette : une messagerie cryptée aux morilles](https://reflets.info/articles/idee-recette-une-messagerie-cryptee-aux-morilles)
-
-[Telegram : DNS over Google](https://reflets.info/articles/telegram-dns-over-google)
-
-[Google bas du front, c'est le Souq chez Signal](https://reflets.info/articles/google-bas-du-front-c-est-le-souq-chez-signal)
-
+[Le monde selon Telegram](https://reflets.info/articles/le-monde-selon-telegram)  
+[Idée recette : une messagerie cryptée aux morilles](https://reflets.info/articles/idee-recette-une-messagerie-cryptee-aux-morilles)  
+[Telegram : DNS over Google](https://reflets.info/articles/telegram-dns-over-google)  
+[Google bas du front, c'est le Souq chez Signal](https://reflets.info/articles/google-bas-du-front-c-est-le-souq-chez-signal)  
 [Censure : 2018, une année noire pour les libertés](https://reflets.info/articles/censure-2018-une-annee-noire-pour-les-libertes)
 
 ## TP2 : [GitHub](https://fr.wikipedia.org/wiki/GitHub)
@@ -34,18 +30,12 @@ Créer un compte sur [GitHub](https://github.com) et me communiquer votre nom d'
 
 Voici les rooms les plus intéressantes pour vous selon moi :
 
-[Python](https://fosdem.org/2023/schedule/track/python)
-
-[Distributions](https://fosdem.org/2023/schedule/track/distributions)
-
-[Community](https://fosdem.org/2023/schedule/track/community)
-
-[Collaboration](https://fosdem.org/2023/schedule/track/collaboration_and_content_management)
-
-[Public](https://fosdem.org/2023/schedule/track/public_code_and_digital_public_goods)
-
-[Open research](https://fosdem.org/2023/schedule/track/open_research_tools_and_technology)
-
+[Python](https://fosdem.org/2023/schedule/track/python)  
+[Distributions](https://fosdem.org/2023/schedule/track/distributions)  
+[Community](https://fosdem.org/2023/schedule/track/community)  
+[Collaboration](https://fosdem.org/2023/schedule/track/collaboration_and_content_management)  
+[Public](https://fosdem.org/2023/schedule/track/public_code_and_digital_public_goods)  
+[Open research](https://fosdem.org/2023/schedule/track/open_research_tools_and_technology)  
 [Legal](https://fosdem.org/2023/schedule/track/legal_and_policy_issues)
 
 Choisissez chacun au moins une conférence à regarder, de laquelle vous devrez faire un résumé.
