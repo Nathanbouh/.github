@@ -93,7 +93,8 @@ Il existe de [nombreux éditeurs](https://wiki.openstreetmap.org/wiki/Editors) p
 Les trois éditeurs les plus utilisés sont :
 - [iD](https://wiki.openstreetmap.org/wiki/FR:ID), pour des éditions aisées dans le navigateur
 - [JOSM](https://wiki.openstreetmap.org/wiki/FR:JOSM), pour des éditions lourdes sur desktop
-- [StreetComplete](https://wiki.openstreetmap.org/wiki/FR:StreetComplete), pour des éditions légère sous Android
+- [Vespucci](https://wiki.openstreetmap.org/wiki/FR:Vespucci), pour des éditions sous Android
+- [StreetComplete](https://wiki.openstreetmap.org/wiki/FR:StreetComplete), pour des éditions légères sous Android
 
 ## TP8 : [Arduino](https://fr.wikipedia.org/wiki/Arduino)
 
