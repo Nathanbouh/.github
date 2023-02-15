@@ -91,9 +91,9 @@ Il existe un grand nombre de distributions GNU/Linux ([DistroWatch](https://dist
 Il existe de [nombreux éditeurs](https://wiki.openstreetmap.org/wiki/Editors) pour OSM, de qualité et de fonctionnalités [très variables](https://wiki.openstreetmap.org/wiki/Comparison_of_editors).
 
 Les trois éditeurs les plus utilisés sont :
-- [iD](https://wiki.openstreetmap.org/wiki/FR:ID)
-- [JOSM](https://wiki.openstreetmap.org/wiki/FR:JOSM)
-- [StreetComplete](https://wiki.openstreetmap.org/wiki/FR:StreetComplete)
+- [iD](https://wiki.openstreetmap.org/wiki/FR:ID), pour des éditions aisées dans le navigateur
+- [JOSM](https://wiki.openstreetmap.org/wiki/FR:JOSM), pour des éditions lourdes sur desktop
+- [StreetComplete](https://wiki.openstreetmap.org/wiki/FR:StreetComplete), pour des éditions légère sous Android
 
 ## TP8 : [Arduino](https://fr.wikipedia.org/wiki/Arduino)
 
