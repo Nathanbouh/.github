@@ -45,7 +45,7 @@ Choisissez chacun au moins une conférence à regarder, de laquelle vous devrez 
 
 https://developer.mozilla.org/fr/docs/Web/HTML
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/160px-HTML5_logo_and_wordmark.svg.png
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/160px-HTML5_logo_and_wordmark.svg.png)
 
 ## TP3 : [GNU/Linux](https://fr.wikipedia.org/wiki/Linux)
 
