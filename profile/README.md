@@ -47,6 +47,10 @@ https://developer.mozilla.org/fr/docs/Web/HTML
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/160px-HTML5_logo_and_wordmark.svg.png)
 
+## TP : [Brython](https://brython.info)
+
+Brython est une implémentation de Python en JavaScript, qui permet donc de remplacer le JavaScript par Python dans le navigateur (côté client).
+
 ## TP3 : [GNU/Linux](https://fr.wikipedia.org/wiki/Linux)
 
 Il existe un grand nombre de distributions GNU/Linux ([DistroWatch](https://distrowatch.com)), basées sur le [noyau Linux](https://www.kernel.org) et le [projet GNU](https://www.gnu.org).
