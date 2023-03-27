@@ -41,6 +41,12 @@ Voici les rooms les plus intéressantes pour vous selon moi :
 
 Choisissez chacun au moins une conférence à regarder, de laquelle vous devrez faire un résumé en [Mardown](https://fr.wikipedia.org/wiki/Markdown) sur la [page dédiée](https://github.com/LoLibres/.github/wiki/FOSDEM) du [Wiki](https://github.com/LoLibres/.github/wiki).
 
+## TP : [HTML](https://fr.wikipedia.org/wiki/Hypertext_Markup_Language)
+
+https://developer.mozilla.org/fr/docs/Web/HTML
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/160px-HTML5_logo_and_wordmark.svg.png
+
 ## TP3 : [GNU/Linux](https://fr.wikipedia.org/wiki/Linux)
 
 Il existe un grand nombre de distributions GNU/Linux ([DistroWatch](https://distrowatch.com)), basées sur le [noyau Linux](https://www.kernel.org) et le [projet GNU](https://www.gnu.org).
