@@ -47,6 +47,8 @@ La langage de formatage léger Markdown est principalement utilisé pour génér
 
 Le logiciel libre Pandoc est probablement le meilleur convertisseur Markdown disponible actuellement, il est écrit en Haskell. On pourra aussi citer [txt2tags](https://txt2tags.org), écrit en Python.
 
+Il faudra utiliser un de ces logiciels pour générer vos deux articles (FOSDEM et Éthique) dans d'autres formats de fichier. Ajouter ces versions en pièces jointes de votre page wiki.
+
 ## TP : [HTML](https://fr.wikipedia.org/wiki/Hypertext_Markup_Language)
 
 https://developer.mozilla.org/fr/docs/Web/HTML
