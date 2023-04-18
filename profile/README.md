@@ -58,7 +58,7 @@ Choisissez chacun un texte, duquel vous devrez faire un résumé en [Mardown](ht
 
 ## TP5 : [Copyleft](https://fr.wikipedia.org/wiki/Copyleft)
 
-[Copyleft](https://f.gallai.re/copyleft) est un jeu sérieux, basé sur le principe de 2048, qui permet d'appréhender le concept juridique de Copyleft, vous êtes donc invités à y jouer et à faire un screenshot de votre mailleur score à mettre sur le [Wiki](https://github.com/LoLibres/.github/wiki) !
+[Copyleft](https://f.gallai.re/copyleft) est un jeu sérieux, basé sur le principe de 2048, qui permet d'appréhender le concept juridique de Copyleft, vous êtes donc invités à y jouer et à faire une capture d'écran de votre meilleur score à mettre sur le [Wiki](https://github.com/LoLibres/.github/wiki) !
 
 ![](https://gitlab.com/fgallaire/copyleft/raw/master/img/screenshot.png).
 
