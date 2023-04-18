@@ -51,7 +51,7 @@ Il faudra utiliser un de ces logiciels pour générer vos deux articles (FOSDEM 
 
 ## TP : [HTML](https://fr.wikipedia.org/wiki/Hypertext_Markup_Language)
 
-[Documentation]https://developer.mozilla.org/fr/docs/Web/HTML
+[Documentation](https://developer.mozilla.org/fr/docs/Web/HTML)
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/160px-HTML5_logo_and_wordmark.svg.png)
 
