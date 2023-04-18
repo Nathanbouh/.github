@@ -75,6 +75,22 @@ $ pandoc Copyleft.md -o Copyleft.doc
 
 Pour convertir un fichier en pdf, Pandoc génère un fichier [LaTeX](https://fr.wikipedia.org/wiki/LaTeX), le langage de balisage de référence dans le monde scientifique et en terme de qualité typographique, qui est ensuite converti en pdf. Cela demande [l'installation de nombreuses dépendances](https://gist.github.com/rain1024/98dd5e2c6c8c28f9ea9d).
 
+## TP : [OpenStreetMap](https://fr.wikipedia.org/wiki/OpenStreetMap)
+
+[OpenStreetMap](https://www.openstreetmap.org)
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Openstreetmap_logo.svg/160px-Openstreetmap_logo.svg.png)
+
+La première chose à faire est de [créer un compte OSM](https://www.openstreetmap.org/user/new).
+
+Ensuite, il existe de [nombreux éditeurs](https://wiki.openstreetmap.org/wiki/Editors) pour OSM, de qualité et de fonctionnalités [très variables](https://wiki.openstreetmap.org/wiki/Comparison_of_editors).
+
+Les trois éditeurs les plus utilisés sont :
+- [iD](https://wiki.openstreetmap.org/wiki/FR:ID), pour des éditions aisées dans le navigateur
+- [JOSM](https://wiki.openstreetmap.org/wiki/FR:JOSM), pour des éditions lourdes sur desktop
+- [Vespucci](https://wiki.openstreetmap.org/wiki/FR:Vespucci), pour des éditions sous Android
+- [StreetComplete](https://wiki.openstreetmap.org/wiki/FR:StreetComplete), pour des éditions légères sous Android
+
 ## TP6 : [HTML](https://fr.wikipedia.org/wiki/Hypertext_Markup_Language)
 
 [Documentation](https://developer.mozilla.org/fr/docs/Web/HTML)
@@ -106,8 +122,6 @@ Il existe un grand nombre de distributions GNU/Linux ([DistroWatch](https://dist
 ![](https://blog.microlinux.fr/wp-content/uploads/2022/08/systemes-bsd.jpg)
 
 
-
-
 ## TP : [Creative Commons](https://fr.wikipedia.org/wiki/Creative_Commons)
 
 [Creative Commons](https://creativecommons.org)
@@ -120,21 +134,6 @@ Il existe un grand nombre de distributions GNU/Linux ([DistroWatch](https://dist
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Wikipedia-logo-v2-square.svg/160px-Wikipedia-logo-v2-square.svg.png)
 
-## TP : [OpenStreetMap](https://fr.wikipedia.org/wiki/OpenStreetMap)
-
-[OpenStreetMap](https://www.openstreetmap.org)
-
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Openstreetmap_logo.svg/160px-Openstreetmap_logo.svg.png)
-
-La première chose à faire est de [créer un compte OSM](https://www.openstreetmap.org/user/new).
-
-Ensuite, il existe de [nombreux éditeurs](https://wiki.openstreetmap.org/wiki/Editors) pour OSM, de qualité et de fonctionnalités [très variables](https://wiki.openstreetmap.org/wiki/Comparison_of_editors).
-
-Les trois éditeurs les plus utilisés sont :
-- [iD](https://wiki.openstreetmap.org/wiki/FR:ID), pour des éditions aisées dans le navigateur
-- [JOSM](https://wiki.openstreetmap.org/wiki/FR:JOSM), pour des éditions lourdes sur desktop
-- [Vespucci](https://wiki.openstreetmap.org/wiki/FR:Vespucci), pour des éditions sous Android
-- [StreetComplete](https://wiki.openstreetmap.org/wiki/FR:StreetComplete), pour des éditions légères sous Android
 
 ## TP : [Arduino](https://fr.wikipedia.org/wiki/Arduino)
 
