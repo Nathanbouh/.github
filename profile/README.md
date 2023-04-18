@@ -2,6 +2,8 @@
 
 Bienvenue à tous les étudiants de l'ARE **LoLibres** !
 
+Le [Wiki](https://github.com/LoLibres/.github/wiki) de l'ARE.
+
 ## TP1 : [Telegram](https://fr.wikipedia.org/wiki/Telegram_(application))
 
 Dans le cadre d'un EAD, les moyens de communication se doivent d'être performants, c'est pourquoi il vous faudra créer au plus vite un compte [Telegram](https://telegram.org) et rejoindre le [groupe public LoLibres](https://lolibres.t.me).
