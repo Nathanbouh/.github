@@ -80,6 +80,9 @@ Il existe un grand nombre de distributions GNU/Linux ([DistroWatch](https://dist
 
 [Éthique des logiciels libres](https://dl.flext.net/Ethique_des_Logiciels_Libres.pdf)
 
+Choisissez chacun un texte, duqel vous devrez faire un résumé en [Mardown](https://fr.wikipedia.org/wiki/Markdown) sur la [page dédiée](https://github.com/LoLibres/.github/wiki/Ethique) du [Wiki](https://github.com/LoLibres/.github/wiki).
+
+
 ## TP5 : [Creative Commons](https://fr.wikipedia.org/wiki/Creative_Commons)
 
 [Creative Commons](https://creativecommons.org)
