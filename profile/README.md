@@ -25,7 +25,7 @@ Créer un compte sur [GitHub](https://github.com) et me communiquer votre nom d'
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/160px-Octicons-mark-github.svg.png)
 
-## TP : [FOSDEM](https://fr.wikipedia.org/wiki/Free_and_open_source_software_developers%27_European_meeting)
+## TP3 : [FOSDEM](https://fr.wikipedia.org/wiki/Free_and_open_source_software_developers%27_European_meeting)
 
 [FOSDEM 2023](https://fosdem.org/2023)
 
@@ -43,7 +43,7 @@ Voici les rooms les plus intéressantes pour vous selon moi :
 
 Choisissez chacun au moins une conférence à regarder, de laquelle vous devrez faire un résumé en [Mardown](https://fr.wikipedia.org/wiki/Markdown) sur la [page dédiée](https://github.com/LoLibres/.github/wiki/FOSDEM) du [Wiki](https://github.com/LoLibres/.github/wiki).
 
-## TP : [Pandoc](https://pandoc.org)
+## TP4 : [Pandoc](https://pandoc.org)
 
 La langage de balisage léger Markdown est principalement utilisé pour générer des pages web en HTML. Cependant, certains logiciels permettent de convertir un fichier Markdown dans un très grand nombre d'autres formats.
 
