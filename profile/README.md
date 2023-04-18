@@ -41,7 +41,7 @@ Voici les rooms les plus intéressantes pour vous selon moi :
 
 Choisissez chacun au moins une conférence à regarder, de laquelle vous devrez faire un résumé en [Mardown](https://fr.wikipedia.org/wiki/Markdown) sur la [page dédiée](https://github.com/LoLibres/.github/wiki/FOSDEM) du [Wiki](https://github.com/LoLibres/.github/wiki).
 
-## TP : [https://pandoc.org](Pandoc)
+## TP : [Pandoc](https://pandoc.org)
 
 La langage de formatage léger Markdown est principalement utilisé pour générer des pages web en HTML. Cependant, certains logiciels permettent de convertir un fichier Markdown dans un très grand nombre d'autres formats.
 
