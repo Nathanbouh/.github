@@ -19,6 +19,8 @@ Des liens intéressants concerant la sécurité et des tentatives de censure de 
 - [Google bas du front, c'est le Souq chez Signal](https://reflets.info/articles/google-bas-du-front-c-est-le-souq-chez-signal)
 - [Censure : 2018, une année noire pour les libertés](https://reflets.info/articles/censure-2018-une-annee-noire-pour-les-libertes)
 
+Sélectionnez un des articles concernant les messageries instantanées, et faites-en une présentation du contenu en markdown sur le [Wiki](https://github.com/LoLibres/.github/wiki).
+
 ## TP2 : [GitHub](https://fr.wikipedia.org/wiki/GitHub)
 
 Créer un compte sur [GitHub](https://github.com) et me communiquer votre nom d'utilisateur par Telegram, pour que je puisse vous ajouter à la [team 2023](https://github.com/orgs/LoLibres/teams/2023).
