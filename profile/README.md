@@ -56,11 +56,13 @@ Choisissez chacun au moins une conférence à regarder, de laquelle vous devrez 
 
 Choisissez chacun un texte, duquel vous devrez faire un résumé en [Mardown](https://fr.wikipedia.org/wiki/Markdown) sur la [page dédiée](https://github.com/LoLibres/.github/wiki/Éthique) du [Wiki](https://github.com/LoLibres/.github/wiki).
 
+## TP5 : [Copyleft](https://fr.wikipedia.org/wiki/Copyleft)
+
 [Copyleft](https://f.gallai.re/copyleft) est un jeu sérieux, basé sur le principe de 2048, qui permet d'appréhender le concept juridique de Copyleft, vous êtes donc invités à y jouer et à faire un screenshot de votre mailleur score à mettre sur le [Wiki](https://github.com/LoLibres/.github/wiki) !
 
 ![](https://gitlab.com/fgallaire/copyleft/raw/master/img/screenshot.png).
 
-## TP5 : [Pandoc](https://pandoc.org)
+## TP6 : [Pandoc](https://pandoc.org)
 
 La langage de balisage léger Markdown est principalement utilisé pour générer des pages web en HTML. Cependant, certains logiciels permettent de convertir un fichier Markdown dans un très grand nombre d'autres formats.
 
@@ -75,7 +77,7 @@ $ pandoc Copyleft.md -o Copyleft.doc
 
 Pour convertir un fichier en pdf, Pandoc génère un fichier [LaTeX](https://fr.wikipedia.org/wiki/LaTeX), le langage de balisage de référence dans le monde scientifique et en terme de qualité typographique, qui est ensuite converti en pdf. Cela demande [l'installation de nombreuses dépendances](https://gist.github.com/rain1024/98dd5e2c6c8c28f9ea9d).
 
-## TP6 : [OpenStreetMap](https://fr.wikipedia.org/wiki/OpenStreetMap)
+## TP7 : [OpenStreetMap](https://fr.wikipedia.org/wiki/OpenStreetMap)
 
 [OpenStreetMap](https://www.openstreetmap.org)
 
@@ -95,19 +97,19 @@ Ensuite, le but étant d'expérimenter librement sans peur de mal faire ou d’a
 
 Enfin, vous m'envoyez votre identifiant pour que je vous ajoute aux éditeurs de la carte [LoLibres](https://umap.openstreetmap.fr/fr/map/lolibres_901491).
 
-## TP7 : [HTML](https://fr.wikipedia.org/wiki/Hypertext_Markup_Language)
+## TP8 : [HTML](https://fr.wikipedia.org/wiki/Hypertext_Markup_Language)
 
 [Documentation](https://developer.mozilla.org/fr/docs/Web/HTML)
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/160px-HTML5_logo_and_wordmark.svg.png)
 
-## TP8 : [Git](https://fr.wikipedia.org/wiki/Git)
+## TP9 : [Git](https://fr.wikipedia.org/wiki/Git)
 
 [Git](https://git-scm.com/)
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/160px-Git_icon.svg.png)
 
-## TP9 : [Brython](https://brython.info)
+## TP10 : [Brython](https://brython.info)
 
 Brython est une implémentation de Python en JavaScript, qui permet donc de remplacer le JavaScript par Python dans le navigateur (côté client).
 
