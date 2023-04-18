@@ -83,13 +83,16 @@ Pour convertir un fichier en pdf, Pandoc génère un fichier [LaTeX](https://fr.
 
 La première chose à faire est de [créer un compte OSM](https://www.openstreetmap.org/user/new).
 
-Ensuite, il existe de [nombreux éditeurs](https://wiki.openstreetmap.org/wiki/Editors) pour OSM, de qualité et de fonctionnalités [très variables](https://wiki.openstreetmap.org/wiki/Comparison_of_editors).
+Il existe de [nombreux éditeurs](https://wiki.openstreetmap.org/wiki/Editors) pour OSM, de qualité et de fonctionnalités [très variables](https://wiki.openstreetmap.org/wiki/Comparison_of_editors).
 
-Les trois éditeurs les plus utilisés sont :
+Les éditeurs les plus utilisés sont :
 - [iD](https://wiki.openstreetmap.org/wiki/FR:ID), pour des éditions aisées dans le navigateur
 - [JOSM](https://wiki.openstreetmap.org/wiki/FR:JOSM), pour des éditions lourdes sur desktop
 - [Vespucci](https://wiki.openstreetmap.org/wiki/FR:Vespucci), pour des éditions sous Android
 - [StreetComplete](https://wiki.openstreetmap.org/wiki/FR:StreetComplete), pour des éditions légères sous Android
+
+Ensuite, le but étant d'expérimenter librement sans peur de mal faire ou d’abîmer le travail des autres, j'ai créé une carte propre à l'ARE LoLibres sur [uMap](https://umap.openstreetmap.fr/fr/). Vous devez donc créer y un compte en utilisant votre identifiant OSM.
+Enfin, vous m'envoyez votre identifiant pour que je vous ajoute aux éditeurs de la carte [LoLibre](https://umap.openstreetmap.fr/fr/map/lolibres_901491).
 
 ## TP7 : [HTML](https://fr.wikipedia.org/wiki/Hypertext_Markup_Language)
 
