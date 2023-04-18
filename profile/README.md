@@ -45,13 +45,13 @@ Choisissez chacun au moins une conférence à regarder, de laquelle vous devrez 
 
 ## TP : [Pandoc](https://pandoc.org)
 
-La langage de formatage léger Markdown est principalement utilisé pour générer des pages web en HTML. Cependant, certains logiciels permettent de convertir un fichier Markdown dans un très grand nombre d'autres formats.
+La langage de balisage léger Markdown est principalement utilisé pour générer des pages web en HTML. Cependant, certains logiciels permettent de convertir un fichier Markdown dans un très grand nombre d'autres formats.
 
 Le logiciel libre Pandoc est probablement le meilleur convertisseur Markdown disponible actuellement, il est écrit en Haskell. On pourra aussi citer [txt2tags](https://txt2tags.org), écrit en Python.
 
 Il faudra utiliser un de ces logiciels pour générer vos deux articles (FOSDEM et Éthique) dans d'autres formats de fichier. Ajouter ces versions en pièces jointes de votre page wiki.
 
-Pour convertir un fichier en pdf, Pandoc génère un fichier LaTeX qui est ensuite converti en pdf. Cela demande [l'installation de nombreuses dépendances](https://gist.github.com/rain1024/98dd5e2c6c8c28f9ea9d).
+Pour convertir un fichier en pdf, Pandoc génère un fichier [LaTeX](https://fr.wikipedia.org/wiki/LaTeX), le langage de balisage de référence en dans le monde scientifique, qui est ensuite converti en pdf. Cela demande [l'installation de nombreuses dépendances](https://gist.github.com/rain1024/98dd5e2c6c8c28f9ea9d).
 
 ## TP : [HTML](https://fr.wikipedia.org/wiki/Hypertext_Markup_Language)
 
