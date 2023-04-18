@@ -54,7 +54,7 @@ Choisissez chacun au moins une conférence à regarder, de laquelle vous devrez 
 
 Choisissez chacun un texte, duquel vous devrez faire un résumé en [Mardown](https://fr.wikipedia.org/wiki/Markdown) sur la [page dédiée](https://github.com/LoLibres/.github/wiki/Éthique) du [Wiki](https://github.com/LoLibres/.github/wiki).
 
-[Copyleft](https://f.gallai.re/copyleft) est un jeu sérieux qui permet d'appréhender le concept juridique de Copyleft, vous êtes donc invités à y jouer et à faire un screenshot de votre mailleur score à mettre sur le wiki !
+[Copyleft](https://f.gallai.re/copyleft) est un jeu sérieux qui permet d'appréhender le concept juridique de Copyleft, vous êtes donc invités à y jouer et à faire un screenshot de votre mailleur score à mettre sur le [https://github.com/LoLibres/.github/wiki](Wiki) !
 
 ![](https://gitlab.com/fgallaire/copyleft/raw/master/img/screenshot.png).
 
