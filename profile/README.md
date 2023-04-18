@@ -51,7 +51,7 @@ Le logiciel libre Pandoc est probablement le meilleur convertisseur Markdown dis
 
 Il faudra utiliser un de ces logiciels pour générer vos deux articles (FOSDEM et Éthique) dans d'autres formats de fichier. Ajouter ces versions en pièces jointes de votre page wiki.
 
-Pour convertir un fichier en pdf, Pandoc génère un fichier [LaTeX](https://fr.wikipedia.org/wiki/LaTeX), le langage de balisage de référence en dans le monde scientifique, qui est ensuite converti en pdf. Cela demande [l'installation de nombreuses dépendances](https://gist.github.com/rain1024/98dd5e2c6c8c28f9ea9d).
+Pour convertir un fichier en pdf, Pandoc génère un fichier [LaTeX](https://fr.wikipedia.org/wiki/LaTeX), le langage de balisage de référence dans le monde scientifique et en terme de qualité typographique, qui est ensuite converti en pdf. Cela demande [l'installation de nombreuses dépendances](https://gist.github.com/rain1024/98dd5e2c6c8c28f9ea9d).
 
 ## TP : [HTML](https://fr.wikipedia.org/wiki/Hypertext_Markup_Language)
 
