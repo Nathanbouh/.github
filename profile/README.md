@@ -92,6 +92,7 @@ Les éditeurs les plus utilisés sont :
 - [StreetComplete](https://wiki.openstreetmap.org/wiki/FR:StreetComplete), pour des éditions légères sous Android
 
 Ensuite, le but étant d'expérimenter librement sans peur de mal faire ou d’abîmer le travail des autres, j'ai créé une carte propre à l'ARE LoLibres sur [uMap](https://umap.openstreetmap.fr/fr/). Vous devez donc créer y un compte en utilisant votre identifiant OSM.
+
 Enfin, vous m'envoyez votre identifiant pour que je vous ajoute aux éditeurs de la carte [LoLibre](https://umap.openstreetmap.fr/fr/map/lolibres_901491).
 
 ## TP7 : [HTML](https://fr.wikipedia.org/wiki/Hypertext_Markup_Language)
