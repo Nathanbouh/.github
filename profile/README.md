@@ -43,7 +43,18 @@ Voici les rooms les plus intéressantes pour vous selon moi :
 
 Choisissez chacun au moins une conférence à regarder, de laquelle vous devrez faire un résumé en [Mardown](https://fr.wikipedia.org/wiki/Markdown) sur la [page dédiée](https://github.com/LoLibres/.github/wiki/FOSDEM) du [Wiki](https://github.com/LoLibres/.github/wiki).
 
-## TP4 : [Pandoc](https://pandoc.org)
+## TP4 : Licences
+
+[Free Software Foundation](https://www.fsf.org) et [Open Source Initiative](https://opensource.org)
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/FSF-Logo_part.svg/320px-FSF-Logo_part.svg.png)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Open_Source_Initiative_keyhole.svg/160px-Open_Source_Initiative_keyhole.svg.png)
+
+[Éthique des logiciels libres](https://dl.flext.net/Ethique_des_Logiciels_Libres.pdf)
+
+Choisissez chacun un texte, duquel vous devrez faire un résumé en [Mardown](https://fr.wikipedia.org/wiki/Markdown) sur la [page dédiée](https://github.com/LoLibres/.github/wiki/Éthique) du [Wiki](https://github.com/LoLibres/.github/wiki).
+
+## TP5 : [Pandoc](https://pandoc.org)
 
 La langage de balisage léger Markdown est principalement utilisé pour générer des pages web en HTML. Cependant, certains logiciels permettent de convertir un fichier Markdown dans un très grand nombre d'autres formats.
 
@@ -58,17 +69,23 @@ $ pandoc Copyleft.md -o Copyleft.doc
 
 Pour convertir un fichier en pdf, Pandoc génère un fichier [LaTeX](https://fr.wikipedia.org/wiki/LaTeX), le langage de balisage de référence dans le monde scientifique et en terme de qualité typographique, qui est ensuite converti en pdf. Cela demande [l'installation de nombreuses dépendances](https://gist.github.com/rain1024/98dd5e2c6c8c28f9ea9d).
 
-## TP : [HTML](https://fr.wikipedia.org/wiki/Hypertext_Markup_Language)
+## TP6 : [HTML](https://fr.wikipedia.org/wiki/Hypertext_Markup_Language)
 
 [Documentation](https://developer.mozilla.org/fr/docs/Web/HTML)
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/160px-HTML5_logo_and_wordmark.svg.png)
 
-## TP : [Brython](https://brython.info)
+## TP7 : [Git](https://fr.wikipedia.org/wiki/Git)
+
+[Git](https://git-scm.com/)
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/160px-Git_icon.svg.png)
+
+## TP8 : [Brython](https://brython.info)
 
 Brython est une implémentation de Python en JavaScript, qui permet donc de remplacer le JavaScript par Python dans le navigateur (côté client).
 
-## TP3 : [GNU/Linux](https://fr.wikipedia.org/wiki/Linux)
+## TP : [GNU/Linux](https://fr.wikipedia.org/wiki/Linux)
 
 Il existe un grand nombre de distributions GNU/Linux ([DistroWatch](https://distrowatch.com)), basées sur le [noyau Linux](https://www.kernel.org) et le [projet GNU](https://www.gnu.org).
 
@@ -82,37 +99,22 @@ Il existe un grand nombre de distributions GNU/Linux ([DistroWatch](https://dist
 
 ![](https://blog.microlinux.fr/wp-content/uploads/2022/08/systemes-bsd.jpg)
 
-## TP : [Git](https://fr.wikipedia.org/wiki/Git)
-
-[Git](https://git-scm.com/)
-
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/160px-Git_icon.svg.png)
-
-## TP4 : Licences
-
-[Free Software Foundation](https://www.fsf.org) et [Open Source Initiative](https://opensource.org)
-
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/FSF-Logo_part.svg/320px-FSF-Logo_part.svg.png)
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Open_Source_Initiative_keyhole.svg/160px-Open_Source_Initiative_keyhole.svg.png)
-
-[Éthique des logiciels libres](https://dl.flext.net/Ethique_des_Logiciels_Libres.pdf)
-
-Choisissez chacun un texte, duquel vous devrez faire un résumé en [Mardown](https://fr.wikipedia.org/wiki/Markdown) sur la [page dédiée](https://github.com/LoLibres/.github/wiki/Éthique) du [Wiki](https://github.com/LoLibres/.github/wiki).
 
 
-## TP5 : [Creative Commons](https://fr.wikipedia.org/wiki/Creative_Commons)
+
+## TP : [Creative Commons](https://fr.wikipedia.org/wiki/Creative_Commons)
 
 [Creative Commons](https://creativecommons.org)
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Cc.logo.circle.svg/160px-Cc.logo.circle.svg.png)
 
-## TP6 : [Wikipédia](https://fr.wikipedia.org/wiki/Wikip%C3%A9dia)
+## TP : [Wikipédia](https://fr.wikipedia.org/wiki/Wikip%C3%A9dia)
 
 [Wikipédia](https://www.wikipedia.org)
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Wikipedia-logo-v2-square.svg/160px-Wikipedia-logo-v2-square.svg.png)
 
-## TP7 : [OpenStreetMap](https://fr.wikipedia.org/wiki/OpenStreetMap)
+## TP : [OpenStreetMap](https://fr.wikipedia.org/wiki/OpenStreetMap)
 
 [OpenStreetMap](https://www.openstreetmap.org)
 
@@ -128,7 +130,7 @@ Les trois éditeurs les plus utilisés sont :
 - [Vespucci](https://wiki.openstreetmap.org/wiki/FR:Vespucci), pour des éditions sous Android
 - [StreetComplete](https://wiki.openstreetmap.org/wiki/FR:StreetComplete), pour des éditions légères sous Android
 
-## TP8 : [Arduino](https://fr.wikipedia.org/wiki/Arduino)
+## TP : [Arduino](https://fr.wikipedia.org/wiki/Arduino)
 
 [Arduino](https://www.arduino.cc)
 
