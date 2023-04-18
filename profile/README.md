@@ -75,7 +75,7 @@ $ pandoc Copyleft.md -o Copyleft.doc
 
 Pour convertir un fichier en pdf, Pandoc génère un fichier [LaTeX](https://fr.wikipedia.org/wiki/LaTeX), le langage de balisage de référence dans le monde scientifique et en terme de qualité typographique, qui est ensuite converti en pdf. Cela demande [l'installation de nombreuses dépendances](https://gist.github.com/rain1024/98dd5e2c6c8c28f9ea9d).
 
-## TP : [OpenStreetMap](https://fr.wikipedia.org/wiki/OpenStreetMap)
+## TP6 : [OpenStreetMap](https://fr.wikipedia.org/wiki/OpenStreetMap)
 
 [OpenStreetMap](https://www.openstreetmap.org)
 
@@ -91,19 +91,19 @@ Les trois éditeurs les plus utilisés sont :
 - [Vespucci](https://wiki.openstreetmap.org/wiki/FR:Vespucci), pour des éditions sous Android
 - [StreetComplete](https://wiki.openstreetmap.org/wiki/FR:StreetComplete), pour des éditions légères sous Android
 
-## TP6 : [HTML](https://fr.wikipedia.org/wiki/Hypertext_Markup_Language)
+## TP7 : [HTML](https://fr.wikipedia.org/wiki/Hypertext_Markup_Language)
 
 [Documentation](https://developer.mozilla.org/fr/docs/Web/HTML)
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/160px-HTML5_logo_and_wordmark.svg.png)
 
-## TP7 : [Git](https://fr.wikipedia.org/wiki/Git)
+## TP8 : [Git](https://fr.wikipedia.org/wiki/Git)
 
 [Git](https://git-scm.com/)
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/160px-Git_icon.svg.png)
 
-## TP8 : [Brython](https://brython.info)
+## TP9 : [Brython](https://brython.info)
 
 Brython est une implémentation de Python en JavaScript, qui permet donc de remplacer le JavaScript par Python dans le navigateur (côté client).
 
