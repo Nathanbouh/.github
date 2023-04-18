@@ -56,13 +56,9 @@ Choisissez chacun au moins une conférence à regarder, de laquelle vous devrez 
 
 Choisissez chacun un texte, duquel vous devrez faire un résumé en [Mardown](https://fr.wikipedia.org/wiki/Markdown) sur la [page dédiée](https://github.com/LoLibres/.github/wiki/Éthique) du [Wiki](https://github.com/LoLibres/.github/wiki).
 
-## TP5 : [Copyleft](https://fr.wikipedia.org/wiki/Copyleft)
 
-[Copyleft](https://f.gallai.re/copyleft) est un jeu sérieux, basé sur le principe de 2048, qui permet d'appréhender le concept juridique de Copyleft, vous êtes donc invités à y jouer et à faire une capture d'écran de votre meilleur score à mettre sur le [Wiki](https://github.com/LoLibres/.github/wiki) !
 
-![](https://gitlab.com/fgallaire/copyleft/raw/master/img/screenshot.png).
-
-## TP6 : [Pandoc](https://pandoc.org)
+## TP5 : [Pandoc](https://pandoc.org)
 
 La langage de balisage léger Markdown est principalement utilisé pour générer des pages web en HTML. Cependant, certains logiciels permettent de convertir un fichier Markdown dans un très grand nombre d'autres formats.
 
@@ -76,6 +72,12 @@ $ pandoc Copyleft.md -o Copyleft.doc
 ```
 
 Pour convertir un fichier en pdf, Pandoc génère un fichier [LaTeX](https://fr.wikipedia.org/wiki/LaTeX), le langage de balisage de référence dans le monde scientifique et en terme de qualité typographique, qui est ensuite converti en pdf. Cela demande [l'installation de nombreuses dépendances](https://gist.github.com/rain1024/98dd5e2c6c8c28f9ea9d).
+
+## TP6 : [Copyleft](https://fr.wikipedia.org/wiki/Copyleft)
+
+[Copyleft](https://f.gallai.re/copyleft) est un jeu sérieux, basé sur le principe de 2048, qui permet d'appréhender le concept juridique de Copyleft, vous êtes donc invités à y jouer et à faire une capture d'écran de votre meilleur score à mettre sur le [Wiki](https://github.com/LoLibres/.github/wiki) !
+
+![](https://gitlab.com/fgallaire/copyleft/raw/master/img/screenshot.png).
 
 ## TP7 : [OpenStreetMap](https://fr.wikipedia.org/wiki/OpenStreetMap)
 
