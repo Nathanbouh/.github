@@ -101,6 +101,8 @@ Ensuite, le but étant d'expérimenter librement sans peur de mal faire ou d’a
 
 Enfin, vous m'envoyez votre identifiant pour que je vous ajoute aux éditeurs de la carte [LoLibres](https://umap.openstreetmap.fr/fr/map/lolibres_901491).
 
+<iframe width="100%" height="300px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/fr/map/lolibres_901491?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe><p><a href="//umap.openstreetmap.fr/fr/map/lolibres_901491">Voir en plein écran</a></p>
+
 ## TP8 : [HTML](https://fr.wikipedia.org/wiki/Hypertext_Markup_Language)
 
 [Documentation](https://developer.mozilla.org/fr/docs/Web/HTML)
