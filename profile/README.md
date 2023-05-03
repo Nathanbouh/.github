@@ -97,7 +97,7 @@ Les éditeurs les plus utilisés sont :
 
 Ensuite, le but étant d'expérimenter librement sans peur de mal faire ou d’abîmer le travail des autres, j'ai créé une carte propre à l'ARE LoLibres sur [uMap](https://umap.openstreetmap.fr/fr/). Vous devez donc créer y un compte en utilisant votre identifiant OSM.
 
-[Tutoriel d'utilisation de uMap](http://blogs.ac-amiens.fr/tuicsoissonnais/public/TNP_SPIP_documents/utilisation_umap.pdf)
+[Tutoriel d'utilisation](http://blogs.ac-amiens.fr/tuicsoissonnais/public/TNP_SPIP_documents/utilisation_umap.pdf) d'uMap.
 
 Enfin, vous m'envoyez votre identifiant pour que je vous ajoute aux éditeurs de la carte [LoLibres](https://umap.openstreetmap.fr/fr/map/lolibres_901491).
 
