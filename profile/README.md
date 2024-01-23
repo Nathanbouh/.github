@@ -38,10 +38,10 @@ Voici les rooms les plus intéressantes pour vous selon moi :
 - [Python](https://fosdem.org/2024/schedule/track/python-devrom)
 - [Distributions](https://fosdem.org/2024/schedule/track/distributions)
 - [Community](https://fosdem.org/2024/schedule/track/community)
-#- [Collaboration](https://fosdem.org/2024/schedule/track/collaboration_and_content_management)
-#- [Public](https://fosdem.org/2024/schedule/track/public_code_and_digital_public_goods)
-#- [Open research](https://fosdem.org/2024/schedule/track/open_research_tools_and_technology)
-#- [Legal](https://fosdem.org/2024/schedule/track/legal_and_policy_issues)
+# - [Collaboration](https://fosdem.org/2024/schedule/track/collaboration_and_content_management)
+# - [Public](https://fosdem.org/2024/schedule/track/public_code_and_digital_public_goods)
+# - [Open research](https://fosdem.org/2024/schedule/track/open_research_tools_and_technology)
+# - [Legal](https://fosdem.org/2024/schedule/track/legal_and_policy_issues)
 
 Choisissez chacun au moins une conférence à regarder, de laquelle vous devrez faire un résumé en [Mardown](https://fr.wikipedia.org/wiki/Markdown) sur la [page dédiée](https://github.com/LoLibres/.github/wiki/FOSDEM) du [Wiki](https://github.com/LoLibres/.github/wiki).
 
