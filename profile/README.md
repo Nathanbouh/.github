@@ -35,7 +35,7 @@ Créer un compte sur [GitHub](https://github.com) et me communiquer votre nom d'
 
 Voici les rooms les plus intéressantes pour vous selon moi :
 
-- [Python](https://fosdem.org/2024/schedule/track/python-devrom)
+- [Python](https://fosdem.org/2024/schedule/track/python-devroom)
 - [Distributions](https://fosdem.org/2024/schedule/track/distributions)
 - [Community](https://fosdem.org/2024/schedule/track/community)
 - [Collaboration](https://fosdem.org/2024/schedule/track/collaboration_and_content_management)
