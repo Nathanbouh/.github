@@ -23,7 +23,7 @@ Sélectionnez un des articles concernant les messageries instantanées, et faite
 
 ## TP2 : [GitHub](https://fr.wikipedia.org/wiki/GitHub)
 
-Créer un compte sur [GitHub](https://github.com) et me communiquer votre nom d'utilisateur par Telegram, pour que je puisse vous ajouter à la [team 2023](https://github.com/orgs/LoLibres/teams/2023).
+Créer un compte sur [GitHub](https://github.com) et me communiquer votre nom d'utilisateur par Telegram, pour que je puisse vous ajouter à la [team 2024](https://github.com/orgs/LoLibres/teams/2024).
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/160px-Octicons-mark-github.svg.png)
 
